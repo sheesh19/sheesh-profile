@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    padding: 16px 16px;
+    justify-content: space-between;
+}
+
+.links {
+    flex-grow: 0.2;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    background-image: none;
+}
